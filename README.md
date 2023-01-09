@@ -6,4 +6,5 @@ Also making a prediction model with 90 percent accuracy predicting the outcome o
 link to the dataset: https://analyse.kmi.open.ac.uk/open_dataset
 
 Dataset Schema
+
 ![image](https://user-images.githubusercontent.com/121226278/211231033-4fc6ba43-1b34-46e8-bac6-a1c436fffd42.png)
